@@ -1,4 +1,4 @@
-# Get input from the user.
+# Get input from the user.654
 number1 = float(input("Enter the first number: "))
 number2 = float(input("Enter the second number: "))
 
